@@ -94,10 +94,5 @@
   .newtricks-piki-ads-res{display:block;background-color:#F6F6F6;text-align:center;line-height:205px;font-size:13px;font-style:normal;font-weight:normal;color:#757575;border-radius:6px;}
   .darkMode .newtricks-piki-ads{display:block;background-color:#353535;text-align:center;line-height:85px;font-size:13px;font-style:normal;font-weight:normal;color:#FEFEFE;border-radius:6px;}
   .darkMode .newtricks-piki-ads-res{display:block;background-color:#353535;text-align:center;line-height:205px;font-size:13px;font-style:normal;font-weight:normal;color:#FEFEFE;border-radius:6px;}
-  .newtricks-removed {
-		position: relative;
-		/*opacity: .2;*/
-		cursor: not-allowed;
-	}
+  .newtricks-removed {position: relative;/*opacity: .2;*/cursor: not-allowed;}
     
-</style>
