@@ -115,13 +115,4 @@ td.item-remove {position: absolute;margin-top: -35px;margin-left: 5px;}
 .bckbtn {box-shadow: 0 0px 5px 2px rgba(0,0,0,0.10);background:#0000003d;display: block;width: 40px;height: 40px;line-height: 40px;text-align: center;color: white;font-size: 35px;font-weight: bold;border-radius: 50px;-webkit-border-radius: 50px;text-decoration: none;transition: ease all 0.3s;position: fixed;left: 15px;top:15px;z-index: 9;}
 .bckbtn:hover{background: black}
 .lock, .locked{overflow:hidden!important}
-#Hadi_Encrypt {text-align: center;display: none;width: 100%;}
-#cookieChoiceInfo{background-color:#222;padding:10px 10px 40px;top:unset;font-family:"Helvetica Neue Light",HelveticaNeue-Light,"Helvetica Neue",Calibri,Helvetica,Arial;width:300px;left:10px;bottom:10px;border-radius:5px;overflow:hidden}
-#cookieChoiceInfo .cookie-choices-text{margin:0 0 5px;font-size:16px;color:#fff;text-align:left;}
-#cookieChoiceInfo .cookie-choices-inner{position:static}
-#cookieChoiceInfo .cookie-choices-buttons{margin:0;display:block}
-#cookieChoiceInfo .cookie-choices-button{color:#f1d600;text-transform:none;transition:all .2s linear;font-weight:400;display:block;text-align:left;margin:0 0 10px;padding:0}
-#cookieChoiceInfo .cookie-choices-button:nth-child(2){color:#000;text-align:center;background-color:#f1d600;padding:8px 18px;position:absolute;bottom:0;left:0;right:0;margin:0}
-#cookieChoiceInfo .cookie-choices-button:hover{color:#e9eef0}
-#cookieChoiceInfo .cookie-choices-button:nth-child(2):hover{background-color:#e9eef0;color:#000}
-@media screen and (max-width:425px){#cookieChoiceInfo{width:calc(100% - 20px)}}
+
