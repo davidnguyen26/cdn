@@ -1,6 +1,6 @@
 .downloadInfo{max-width:500px;background-color:#fefefe; box-shadow:0 10px 8px -8px rgb(0 0 0 / 12%); border:1px solid #eceff1;border-radius:5px; padding:15px;margin-top:20px;margin-bottom:20px; display:flex;align-items:center; line-height:1.8em;font-size:14px}
 .downloadInfo a, .downloadInfo .fileType{flex-shrink:0;display:flex;align-items:center;justify-content:center; width:50px;height:50px; padding:10px; background:#f1f1f0;border-radius:10px}
-.downloadInfo a{background-color:#f09800;color:#fefefe; margin:0;padding:10px 12px;border-radius:3px; width:auto;height:auto; line-height:20px;font-size:13px}
+.downloadInfo a{background-color:#ffc017;color:#fefefe; margin:0;padding:10px 12px;border-radius:3px; width:auto;height:auto; line-height:20px;font-size:13px}
 .downloadInfo a:after{content:attr(aria-label)}
 .downloadInfo .fileType:before{content:attr(data-text)}
 .downloadInfo .fileName{flex-grow:1; width:calc(100% - 150px);padding:0 15px}
