@@ -20,13 +20,3 @@
 .darkMode .downloadInfo{background-color:#252526; border:0}
 .darkMode .downloadInfo .fileType{background-color:#1e1e1e)} 
 
-/* CSS Internet */
-.icon-stt svg{display:none}
-#networkstt.online .icon-stt .connect-icon{display:inline-block}
-#networkstt.offline .icon-stt .disconnect-icon{display:inline-block}
-#networkstt #status-text{font-size:14px;color:#666;padding:6px}
-#networkstt .icon-stt{padding:6px}
-#networkstt{display:none;position:fixed;bottom:15px;left:15px;background:#fff;padding:4px 6px;align-items:center;border-radius:.25rem;box-shadow:0 0 20px rgb(95 125 149 / 25%);z-index:9999}
-#networkstt.offline,#networkstt.online{display:flex}
-.refresh-button{font-size:14px;display:none;color:#7577a9;margin:0 5px 0 10px;cursor:pointer}
-#networkstt.offline .refresh-button{display:inline-block}
